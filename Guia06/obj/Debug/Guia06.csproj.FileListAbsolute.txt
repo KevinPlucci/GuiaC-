@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\bin\Debug\Guia06.exe.config
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\bin\Debug\Guia06.exe
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\bin\Debug\Guia06.pdb
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\obj\Debug\Guia06.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\obj\Debug\Guia06.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\obj\Debug\Guia06.exe
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia06\obj\Debug\Guia06.pdb
