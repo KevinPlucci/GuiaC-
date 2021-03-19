@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\bin\Debug\Guia14.exe.config
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\bin\Debug\Guia14.exe
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\bin\Debug\Guia14.pdb
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\obj\Debug\Guia14.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\obj\Debug\Guia14.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\obj\Debug\Guia14.exe
+C:\Users\Usuario\Desktop\KPlucci\segundo cuatri\Programacion 2\Ejercicios de la guia\Guia14\obj\Debug\Guia14.pdb
